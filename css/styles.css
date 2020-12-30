@@ -4,7 +4,9 @@
 @import "find.css";
 @import "more.css";
 @import "chatting.css";
-@import "settings.css"; /* Components */
+@import "settings.css";
+@import "no-mobile.css";
+/* Components */
 @import "components/login.css";
 @import "components/nav-bar.css";
 @import "components/screen-header.css";
