@@ -1,0 +1,16 @@
+.settings-setting {
+  padding: 20px 0;
+  border-bottom: 1px solid rgb(190, 187, 187);
+  font-size: 18px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+.settings-setting span {
+  margin-left: 20px;
+}
+.settings-setting i {
+  font-size: 20px;
+}
+.settings-setting__column:last-child {
+}

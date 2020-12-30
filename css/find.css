@@ -1,0 +1,40 @@
+.find-icons {
+  display: flex;
+  justify-content: space-between;
+  padding-bottom: 20px;
+  border-bottom: 1px solid rgba(0, 0, 0, 0.3);
+}
+.find-icons__icon {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.find-icons__icon span {
+  margin-top: 15px;
+}
+.recommended-friends h5 {
+  color: rgb(158, 154, 154);
+}
+.recommended-friends {
+  padding: 25px 0px;
+  border-bottom: 1px solid rgba(0, 0, 0, 0.3);
+}
+.recommended-friends span {
+  display: block;
+  margin: 100px 0px;
+  text-align: center;
+  color: rgb(158, 154, 154);
+}
+.open-chat__header {
+  padding: 10px 0px;
+  display: flex;
+  justify-content: space-between;
+  opacity: 0.9;
+  font-size: 18px;
+}
+.open-chat__header span {
+  display: flex;
+  justify-content: flex-end;
+  opacity: 0.6;
+  font-size: 15px;
+}

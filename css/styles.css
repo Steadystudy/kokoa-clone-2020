@@ -1,0 +1,19 @@
+@import "reset.css";
+@import "status-bar.css";
+@import "friends.css";
+@import "find.css";
+@import "more.css";
+@import "chatting.css";
+@import "settings.css"; /* Components */
+@import "components/login.css";
+@import "components/nav-bar.css";
+@import "components/screen-header.css";
+@import "components/user-component.css";
+@import "components/variables.css";
+@import "components/alt-screen-header.css";
+body {
+  height: 1000vh;
+}
+.main-screen {
+  padding: 25px;
+}

@@ -1,0 +1,15 @@
+구글링에 궁금한 코드 칠 때 뒤에 mdn 붙일 것
+id는 고유해야한다. 둘이상은 안된다
+Why do we use semantic tags?
+구글크롬에 검색했을 때 알고리즘이 HTML 태그를 반영해서 찾기 때문에 검색엔진 최적화에 영향을 미침
+마크업이 잘 되어있는 페이지는 기계가 해당 태그를 읽기 때문에 사용자에게 쉽게 받아들일 수 있음.
+1. CSS가 하는 일은 HTML을 가리키는 일이다.
+ex) 이 태그는 초록색을 나타내는 것이다
+inline은 span, a(link), image 그외 대부분 block, inline은 height와 width가 없다
+box의 특징 3가지 1.padding 2. margin 3.border
+margin은 box의 border의 바깥에 있는 공간
+margin: 상 우 하 좌(시계방향)  /: 상하 좌우(2개) /:1개는 전부
+padding은 box의 border의 안에 있는 공간
+#id { ~~}
+box-sizing:border-box; box사이즈가 200px이고 padding이 50px일때 사용가능 content는 150px
+이걸 안썻을때 위와 같은경우 box사이즈가 200+50으로 증가
